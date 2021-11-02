@@ -1,0 +1,14 @@
+Rubab|12|rubab@gmail.com|Parents|CS
+Zaman|12|zaman@gmail.com|Student|BBA
+Anika|123|anika@gmail.com|Faculty|CS|../image/pic1.png
+Sumi|123|sumi2@gmail.com|Faculty|CS|../image/pic1.png
+a|a|anika@gmail.com|Faculty|CS|../image/pic1.png
+Anika|a|anika@gmail.com|Parents|BBA|../image/pic1.png
+b|b|anika@gmail.com|Faculty|CS|../image/download.png
+Alamin|456|alamin2@aiub.edu|Faculty|CS|../image/download.png
+Anika|123|rubabzamananika3@gmail.com|Faculty|CS|../image/pic2.png
+
+Rubab|123|rubab@aiub.edu|Faculty|EEE|../image/pic1.png
+ANIKA2|123|anika2@aiub.edu|Faculty|BBA|../image/pic1.png
+Yoyo|123|yoyo@aiub.edu|Faculty|BBA|../image/pic1.png
+Rafa|123|rafa@aiub.edu|Faculty|EEE|../image/pic1.png

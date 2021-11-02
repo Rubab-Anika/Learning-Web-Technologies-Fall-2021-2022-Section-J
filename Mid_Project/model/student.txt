@@ -1,0 +1,3 @@
+Ani|1234|ani02@gmail.com|Student
+Zaman|123|zaman@gmail.com|Student
+Anika|123|anika@gmail.com|Student
